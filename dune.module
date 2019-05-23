@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: dumux-elp
+Version: 3.0
+Maintainer: ranjeet270@gmail.com
+#depending on
+Depends: dumux
